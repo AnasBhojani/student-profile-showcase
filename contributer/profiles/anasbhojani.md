@@ -1,11 +1,11 @@
-# 👤 Full Name
+# 👤 Full Name Anas Bhojani (Aspiring Software Engineer)
 
-> 📌 Anas Bhojani (Aspiring Software Engineer)
+> 📌 
 
 ---
 
-## 🎓 Field of Study
-Currently Studying Bachelor's Of Software Engineering From Sir Syed University
+## 🎓 Field of Study Currently Studying Bachelor's Of Software Engineering From Sir Syed University
+
 
 ---
 
@@ -59,8 +59,8 @@ Currently Studying Modern Web & Mobile App Development. Mainly Focusing on Build
 
 ## 🌐 Links
 
-- [GitHub](https://github.com/yourusername)
-- [LinkedIn](https://linkedin.com/in/yourusername)
+- [GitHub](https://github.com/AnasBhojani)
+- [LinkedIn](https://linkedin.com/in/AnasBhojani)
 - [Portfolio Website](https://yourwebsite.com) *(optional)*
 
 ---
@@ -89,7 +89,7 @@ List topics or industries you are curious about or planning to explore.
 
 If you want others to reach out (e.g., for collaboration), share a professional email:
 
-📧 anasbhojani105@gmail.com
+📧 anasbhojani2005@gmail.com
 For Contact :03002725411
 
 ---
