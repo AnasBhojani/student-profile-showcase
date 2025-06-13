@@ -60,7 +60,7 @@ Currently Studying Modern Web & Mobile App Development. Mainly Focusing on Build
 ## 🌐 Links
 
 - [GitHub](https://github.com/AnasBhojani)
-- [LinkedIn](https://linkedin.com/in/Anas Bhojani)
+- [LinkedIn](https://linkedin.com/in/anas-bhojani-3ba74332b/)
 - [Portfolio Website](https://yourwebsite.com) *(optional)*
 
 ---
